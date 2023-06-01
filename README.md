@@ -10,6 +10,9 @@ In the corresponding Jupyter notebook there is sample code for each of the follo
 The code is intended to be illustrative of the algorithms following our paper closely. The code can be extended, modified, and ported as needed.
 
 The full description of the algorithms is given in the following paper: 
+
 Sandra Batista, Vered Senderovich Madar, Philip J. Freda, Priyanka Bhandary, Attri Ghosh, Apurva S. Chitre, Abraham A. Palmer, Jason H. Moore.
+
 **_Computational framework for statistical epistasis supports XOR penetrance function in a living system_**
+
 bioRxiv 2023.05.09.539940; doi: https://doi.org/10.1101/2023.05.09.539940
