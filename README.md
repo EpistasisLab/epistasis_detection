@@ -11,6 +11,6 @@ The code is intended to be illustrative of the algorithms following our paper cl
 
 The full description of the algorithms is given in the following paper: 
 
-Sandra Batista, Vered Senderovich Madar, Philip J. Freda, Priyanka Bhandary, Attri Ghosh, Apurva S. Chitre, Abraham A. Palmer, Jason H. Moore.
-**_Computational framework for statistical epistasis supports XOR penetrance function in a living system._**
-bioRxiv 2023.05.09.539940; doi: https://doi.org/10.1101/2023.05.09.539940
+Sandra Batista, Vered Senderovich Madar, Philip J. Freda, Priyanka Bhandary, Attri Ghosh, Nick Matsumoto, Apurva S. Chitre, Abraham A. Palmer, Jason H. Moore.
+**_Interaction models matter: an efficient, flexible computational framework for model-specific investigation of epistasis._**
+BioData Mining 2024; doi: https://doi.org/10.1186/s13040-024-00358-0
