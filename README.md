@@ -1,6 +1,6 @@
 # Computational Framework for Statistical Epistasis Detection
 
-We present implementations of efficient algorithms to compute linear regression models for statistical epistasis detection. The models permit varied encodings for the interactions using different penetrance functions for the interactions of the loci. They also provide statistical evidence for epistasis.
+We present implementations of efficient algorithms to compute linear regression models for statistical epistasis detection. The models permit varied interaction encodings using different penetrance functions. They also provide statistical evidence for epistasis.
 
 In the corresponding Jupyter notebook there is sample code for each of the following algorithms:
 1. Pairwise Epistasis Detection: Returns coefficient for the interaction of loci and p-value using the t-distribution
